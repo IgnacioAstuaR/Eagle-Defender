@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Eagle Defender.iml" filepath="$PROJECT_DIR$/.idea/Eagle Defender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Nacho/Semeste I/Taller P/GUI_Ignacio.py/.idea/GUI_Ignacio.py.iml" filepath="$PROJECT_DIR$/../Nacho/Semeste I/Taller P/GUI_Ignacio.py/.idea/GUI_Ignacio.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Proyecto/.idea/Proyecto.iml" filepath="$PROJECT_DIR$/../Proyecto/.idea/Proyecto.iml" />
+    </modules>
+  </component>
+</project>
